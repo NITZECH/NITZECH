@@ -4,6 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitzech&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# You can find me via mailto:nitzech@gmail.com
+# You can find me via nitzech@gmail.com
 
 ### Stay awesome!
