@@ -6,6 +6,14 @@
 
 ![](https://img.shields.io/badge/<React>-<Redux>-informational?style=flat&logo=<React>&logoColor=white&color=2bbc8a)
 
-# For enquiries, reach out @ nitzech@gmail.com or over on Instagram.
+# You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://instagram.com/nitzech
+[2]: https://www.linkedin.com/in/nitesh-devkota-7ab786197/
 
 ### Stay awesome!
