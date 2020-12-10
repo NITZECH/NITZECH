@@ -8,8 +8,8 @@
 
 # You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://i.pinimg.com/736x/15/bd/f4/15bdf4bfbbe26eec9c85d2183da93c06.jpg
+[2.2]: https://icon-library.com/images/white-linkedin-icon-png/white-linkedin-icon-png-13.jpg
 
 <!-- Links to your social media accounts -->
 
